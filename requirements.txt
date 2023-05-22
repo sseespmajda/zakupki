@@ -134,7 +134,7 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 sklearn==0.0
 soupsieve==2.3.1
-sqlparse==0.4.2
+sqlparse==0.4.4
 sympy==1.10
 tdigest==0.5.2.2
 tenacity==8.0.1
