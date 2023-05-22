@@ -22,7 +22,7 @@ charset-normalizer==2.0.7
 clang==5.0
 click==8.0.3
 cloudpickle==2.0.0
-cryptography==36.0.1
+cryptography==39.0.1
 cycler==0.11.0
 dask==2022.2.0
 debugpy==1.5.1
