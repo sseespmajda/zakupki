@@ -78,7 +78,7 @@ matplotlib==3.3.4
 matplotlib-inline==0.1.3
 memoization==0.3.2
 mistune==0.8.4
-mpmath==1.2.1
+mpmath==1.3.0
 multidict==6.0.2
 nbclient==0.5.11
 nbconvert==6.4.2
