@@ -53,7 +53,7 @@ importlib-resources==5.4.0
 imutils==0.5.4
 invoke==1.6.0
 ipykernel==6.5.0
-ipython==7.29.0
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.6.5
 itsdangerous==2.0.1
