@@ -16,7 +16,7 @@ beautifulsoup4==4.10.0
 bleach==4.1.0
 boto==2.49.0
 cachetools==4.2.4
-certifi==2021.10.8
+certifi==2022.12.7
 cffi==1.15.0
 charset-normalizer==2.0.7
 clang==5.0
