@@ -150,7 +150,7 @@ textblob==0.17.1
 threadpoolctl==3.0.0
 tifffile==2021.11.2
 toolz==0.11.2
-torch==1.11.0
+torch==1.13.1
 torch-explain==0.6.5
 torchmetrics==0.7.2
 torchvision==0.12.0
